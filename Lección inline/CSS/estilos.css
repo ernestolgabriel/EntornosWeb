@@ -1,0 +1,32 @@
+
+*{
+    padding: 500 px;
+    margin: 50px;
+}
+
+#titulo_principal{
+    color: #f75285;
+    text-align: center;
+    margin: 15px;
+}
+
+h2{
+    color: #b3b0cc;
+}
+
+p{
+    color: #457b9d;
+}
+
+/*clase de css*/
+.java{
+    border: 10px solid #560bad;
+    background-color: rgb(104, 158, 158);
+    text-align: center;
+    margin: 15px 100px;
+    padding: 50px;
+}
+
+.titulo{
+    color: #f72583;
+}

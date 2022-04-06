@@ -1,0 +1,15 @@
+table, th, td{
+    border: 2px solid brown;
+    border-collapse: collapse;
+    /*border-spacing: 5px;*/
+    padding: 5px 10px;
+}
+
+th{
+    background-color: brown;
+    color: aliceblue;
+}
+
+td{
+    text-align: center;
+}
